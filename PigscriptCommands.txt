@@ -1,0 +1,17 @@
+Explain the working of below pig script commands with an example:-
+
+1)LOAD->It is used to read data from the file system.
+
+2)STORE->It is used to write output to the file system.
+
+3)DUMP->It displays the output to the screen.
+
+4)FOREACH->Based on the column data it generates the required data transformations. 
+
+5)FILTER->It selects the required tuples from the relation based on the condition.
+
+6)GROUP BY->It collects the data having the same key and groups the data in one or more relations. 
+
+7)ORDER BY->It displays the contents of the relation in the sorted order based on one or more specified fields.
+
+8)DESCRIBE->It is used to review the schema of the relation.
